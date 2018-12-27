@@ -2,7 +2,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class kktest {
+public class test {
 
 	@Test
 	public void addtestSuccess() {
